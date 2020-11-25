@@ -1,0 +1,31 @@
+#header
+{
+    font-size: 19px;
+}
+
+#button_mystery_suprise
+{
+    font-size: 23px;
+    color: #eb46ca;
+    background-color: #6823fc;
+}
+
+#birthday-wish
+{
+    color:#eb2d7f;
+    background-color: #2cc93f;
+    font-family: 'Lobster', cursive; 
+    font-size: 28px;
+}
+
+body{
+    background:linear-gradient( white, #20d423, #2edbd3, #ff3bff, #810af7);
+}
+
+.copy_right_footer
+{
+    font-family: 'Acme', sans-serif;
+    background-color: #eb2d7f;
+    font-size: 23px;
+    position: (,);
+}
